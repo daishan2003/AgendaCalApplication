@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="snack_bar_color_success">#4BB543</color>
+    <color name="color_cal">#734dd2</color>
+    <color name="color_current_cal">#261e3d</color>
+    <color name="color_cal_fade">#bca4f9</color>
+</resources>
